@@ -1,0 +1,2 @@
+# pythonweb/app/requirements.txt
+Flask
